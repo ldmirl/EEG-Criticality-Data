@@ -1,1 +1,1 @@
-# eeg-experiments
+# EEG Criticality Data
